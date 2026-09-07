@@ -11,14 +11,5 @@ Highest PM2.5 level: Kraków (13.3 μg/m³)
 
 
 
-## How to Run
-
-```bash
-pip install requests
-python main.py
-Tech Stack
-Python — requests
-Open-Meteo Air Quality API — free, no authentication required
-Portfolio project by Wiktoria Gocałek · Data Engineering · 2026
 
 
